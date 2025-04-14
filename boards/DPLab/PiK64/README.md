@@ -1,13 +1,3 @@
-
- ________  ________  ___       ________  ________     
-|\   ___ \|\   __  \|\  \     |\   __  \|\   __  \    
-\ \  \_|\ \ \  \|\  \ \  \    \ \  \|\  \ \  \|\ /_   
- \ \  \ \\ \ \   ____\ \  \    \ \   __  \ \   __  \  
-  \ \  \_\\ \ \  \___|\ \  \____\ \  \ \  \ \  \|\  \ 
-   \ \_______\ \__\    \ \_______\ \__\ \__\ \_______\
-    \|_______|\|__|     \|_______|\|__|\|__|\|_______|
-    
-
 # Commodore C64 (PiK64)
 
 The Commodore 64, also known as the C64, was a popular home computer released in 1982. It had an 8-bit processor and 64 KB of RAM, which was a significant amount of memory at the time. The C64 was known for its versatility and affordability, and it quickly became one of the best-selling computers of all time. It was used for a wide variety of applications, including gaming, programming, and business. The C64's legacy lives on today, with many enthusiasts still using and developing for the platform.
