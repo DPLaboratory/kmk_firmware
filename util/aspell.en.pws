@@ -1,4 +1,4 @@
-personal_ws-1.1 en 377 
+personal_ws-1.1 en 382 
 ADNS
 AMS
 ANAVI
@@ -84,6 +84,7 @@ ItsyBitsy
 JIS
 JPConstantineau's
 Jakob
+Jiggler
 KMK
 KMK's
 KMKPython
@@ -149,6 +150,7 @@ Osprette
 PCB
 PCBA
 PCBs
+PID
 PIO
 PRevents
 Pico
@@ -190,6 +192,7 @@ SerialACE
 ShareAlike
 ShiftRegisterKeys
 Sofle
+SpaceMouse
 Spacebar
 SparkFun
 StickyKeys
@@ -215,6 +218,7 @@ Uso
 VCC
 VColChoc
 VColMX
+VID
 WIPO
 WS
 WinCompose
@@ -289,6 +293,7 @@ ish
 isort
 iterable
 itsybitsy
+jiggler
 kata
 kb
 kdb
